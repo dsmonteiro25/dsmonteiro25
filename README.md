@@ -6,8 +6,8 @@ Estudante de Ciência da Computação pela Universidade Federal do Maranhão UFM
 ### Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Guilherme GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dsmonteiro25&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Daniel GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsmonteiro25&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
@@ -33,7 +33,7 @@ Estudante de Ciência da Computação pela Universidade Federal do Maranhão UFM
 ### Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-monteiro-7ba80820b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   </p>
@@ -43,5 +43,5 @@ Estudante de Ciência da Computação pela Universidade Federal do Maranhão UFM
 ### 🔥 Minhas Contribuições
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsmonteiro25&theme=dark" alt="GitHub Streak Stats" />
 </p>
