@@ -1,4 +1,4 @@
-# Olá, eu sou Daniel Monteiro 👋
+# Olá, eu sou Daniel Monteiro 
 
 Estudante de Ciência da Computação pela Universidade Federal do Maranhão UFMA
 
